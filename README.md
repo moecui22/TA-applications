@@ -1,5 +1,5 @@
 
-## **Neuromatch & Climatematch Teaching Demo Instructions**
+# **Neuromatch & Climatematch Teaching Demo Instructions**
 
 As part of your application to be a teaching assistant, we would like you to make a 4-5 minutes video that showcases your teaching. We don’t want you to spend too long making this video, certainly no longer than 1 hour. For a fair assessment, longer videos will be penalized. You can download a sample teaching demo for this tutorial in this repo, or see it on YouTube [here](https://www.youtube.com/watch?v=bKQxpM7CTZ8).
 
@@ -10,17 +10,18 @@ We essentially want you to: 1) get to know the course-specific tutorial, 2) open
 Below, we provide course-specific instructions on what to cover in your video, as well as detailed recording instructions.
 
 **Course-specific instructions for teaching assistant applications:**
-- [***Computational Neuroscience TA application video instructions***](#computational-neuroscience-and-neuroai-ta-application-video-instructions)
+- [***Computational Neuroscience TA application video instructions***](#computational-neuroscience-ta-application-video-instructions)
 - [***Deep Learning TA application video instructions***](#deep-learning-ta-application-video-instructions)
 - [***Computational Tools for Climate Science TA Application video instructions***](#computational-tools-for-climate-science-ta-application-video-instructions)
-- [***NeuroAI TA application video instructions***](#computational-neuroscience-and-neuroai-ta-application-video-instructions)
+- [***NeuroAI TA application video instructions***](#neuroai-ta-application-video-instructions)
 
 For all courses, we have provided [details about how you will be evaluated and detailed instructions for recording.](#evaluation-and-recording-instructions)
 
 
-### ***Computational Neuroscience and NeuroAI TA application video instructions***
+## ***Computational Neuroscience TA application video instructions***
 
 **Lesson Plan**
+
 ***Background***
 
 For this tutorial you can assume that your students have learnt about:
@@ -39,7 +40,7 @@ In this set of exercises we will:
 You can access the tutorial here:
 https://compneuro.neuromatch.io/tutorials/W1D2_ModelFitting/student/W1D2_Tutorial4.html. You can download as a jupyter notebook, but we recommend using google colab to run the notebook. You can hit this badge to load directly: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NeuromatchAcademy/course-content/blob/main/tutorials/W1D2_ModelFitting/student/W1D2_Tutorial4.ipynb)
 
-For computational neuroscience and Neuro AI TA applicants we would like you to structure your five minute video with an emphasis on both theoretical and coding aspect of the models. We will appreciate if your video follows the breakdown given below: 
+For computational neuroscience TA applicants we would like you to structure your five minute video with an emphasis on both theoretical and coding aspect of the models. We will appreciate if your video follows the breakdown given below: 
 
 * < 1 min: Introduce yourself. Give a few sentences about who you are!
 * < 2 mins: Give a very brief recap of **polynomial regression method** and explain why you might use it. While you should imagine that you are teaching a class of students, don’t feel the need to address them or ask them questions.
@@ -49,9 +50,10 @@ For computational neuroscience and Neuro AI TA applicants we would like you to s
 Please follow the instructions given in the [Evaluation and recording instructions](#evaluation-and-recording-instructions).
 
 
-### ***Deep Learning TA application video instructions***
+## ***Deep Learning TA application video instructions***
 
 **Lesson Plan**
+
 ***Background***
 
 For this tutorial you can assume that your students have learnt about:
@@ -79,7 +81,38 @@ For Deep Learning teaching assistant applicants we would like you to structure y
 ***Recording & Evaluation Instructions***
 Please follow the instructions given in the [Evaluation and recording instructions](#evaluation-and-recording-instructions).
 
-### *Computational Tools for Climate Science TA Application video instructions*
+## ***NeuroAI TA application video instructions***
+
+**Lesson Plan**
+
+***Background***
+
+For this tutorial you can assume that your students have learnt about:
+- Introduction to sparsity in earlier tutorials.
+- Introduction to the concept of generalization in the context of modern AI systems [(W1D1)](https://neuroai.neuromatch.io/tutorials/W1D1_Generalization/student/W1D1_Tutorial1.html).
+- Have previously taken Neuromatch [Comp Neuro](https://compneuro.neuromatch.io/) and [Deep Learning](https://deeplearning.neuromatch.io/) course or equivalent. 
+
+
+***Tutorial Description***
+
+In this set of exercises we will:
+- Recognize various types of sparsity (population, lifetime, interaction).
+- Relate sparsity to inductive bias, interpretability, and efficiency.
+
+    
+You can access the tutorial here:
+https://neuroai.neuromatch.io/tutorials/W1D5_Microcircuits/student/W1D5_Tutorial1.html#section-3-2-hidden-features-as-dictionary-learning. You can download as a jupyter notebook, but we recommend using google colab to run the notebook. You can hit this badge to load directly: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/neuromatch/NeuroAI_Course/blob/main/tutorials/W1D5_Microcircuits/student/W1D5_Tutorial1.ipynb#scrollTo=yoFh-t1dpGvS)
+
+For Neuro AI TA applicants we would like you to structure your five minute video with an emphasis on both theoretical and coding aspect of the model. We will appreciate if your video follows the breakdown given below: 
+
+* < 1 min: Introduce yourself. Give a few sentences about who you are!
+* < 2 mins: Contextualise sparsity and dictionary learning, and how it is helpful for studying neuroscience.
+* ~ 2 mins: Work through *Coding Exercise 4: Dictionary Learning for MNIST*, explaining the solution code as you go
+
+***Recording & Evaluation Instructions***
+Please follow the instructions given in the [Evaluation and recording instructions](#evaluation-and-recording-instructions).
+
+## *Computational Tools for Climate Science TA Application video instructions*
 
 ***Lesson Plan & Background***
 
